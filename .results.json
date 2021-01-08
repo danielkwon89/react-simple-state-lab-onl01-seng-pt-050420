@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2021-01-08T06:30:07.727Z",
-    "end": "2021-01-08T06:30:07.756Z",
-    "duration": 29
+    "start": "2021-01-08T06:32:36.955Z",
+    "end": "2021-01-08T06:32:36.981Z",
+    "duration": 26
   },
   "tests": [
     {
@@ -27,14 +27,14 @@
     {
       "title": "each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
       "fullTitle": "<Matrix /> each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
       "fullTitle": "<Cell /> is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
-      "duration": 4,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -69,7 +69,7 @@
     {
       "title": "has an event listener that, when clicked, sets state's 'color' key to a value of '#333'",
       "fullTitle": "<Cell /> has an event listener that, when clicked, sets state's 'color' key to a value of '#333'",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -101,14 +101,14 @@
     {
       "title": "each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
       "fullTitle": "<Matrix /> each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
       "fullTitle": "<Cell /> is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
-      "duration": 4,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -143,7 +143,7 @@
     {
       "title": "has an event listener that, when clicked, sets state's 'color' key to a value of '#333'",
       "fullTitle": "<Cell /> has an event listener that, when clicked, sets state's 'color' key to a value of '#333'",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
